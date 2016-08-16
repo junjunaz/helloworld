@@ -1,2 +1,3 @@
 # helloworld
-personal
+*personal
+* I wonder how to build a read me file
